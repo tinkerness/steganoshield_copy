@@ -8,11 +8,16 @@
 ## Solution
 <p align="justify">The proposed solution involves embedding encrypted data within innocuous-looking cover media using steganography techniques. This ensures that even if the communication is intercepted, the hidden data remains concealed. The RSA encryption algorithm is used to encrypt the data before embedding it. This combination of encryption and steganography provides a robust solution for ensuring confidentiality and integrity in digital communication without the need for secure key exchange.</p>
 
+## Project Repo
+View Full Project at :- [SteganoShield Repo](https://github.com/tinkerness/steganoshield)
+
 ## Tech Stack Used
 - Python
+- Figma
+- HTML
+- CSS
 <!-- - Flask
 - Firebase -->
-- Figma
 
 ## Results
 SteganoShield successfully provides a robust solution for ensuring confidentiality and integrity in digital communication.
@@ -38,9 +43,15 @@ SteganoShield successfully provides a robust solution for ensuring confidentiali
 2. Decryption Process
     ![Decryption](screenshots/decryption.png "Decryption Process")
 
+## Project Status
+- [Completed RSA encryption algorithm](https://github.com/tinkerness/steganoshield/blob/main/proj2_rsa/README.md)
+
+- [Implemented steganography techniques for data embedding](https://github.com/tinkerness/steganoshield/blob/main/proj3_steganography/README.md)
+
+- [Completed UI design](https://github.com/tinkerness/steganoshield/blob/main/proj4_html/README.md)
+
 ## Future Plans
-- Develop UI
-- Connect to Firebase database
+- Connect to database
 
 ## Team Members
 - Anitta Siby
