@@ -16,8 +16,8 @@ View Full Project at :- [SteganoShield Repo](https://github.com/tinkerness/stega
 - Figma
 - HTML
 - CSS
-<!-- - Flask
-- Firebase -->
+- Flask
+<!-- - Firebase -->
 
 ## Results
 SteganoShield successfully provides a robust solution for ensuring confidentiality and integrity in digital communication.
@@ -42,6 +42,11 @@ SteganoShield successfully provides a robust solution for ensuring confidentiali
 
 2. Decryption Process
     ![Decryption](screenshots/decryption.png "Decryption Process")
+3. UI
+    ![Home](screenshots/1_home.png "Home")
+    ![Login](screenshots/2_login.png "Login")
+    ![Dashboard](screenshots/3_dashboard_updated.png "Dashboard")
+    ![Decrypt](screenshots/5_decrypt.png "Decrypt")
 
 ## Project Status
 - [Completed RSA encryption algorithm](https://github.com/tinkerness/steganoshield/blob/main/proj2_rsa/README.md)
@@ -49,6 +54,8 @@ SteganoShield successfully provides a robust solution for ensuring confidentiali
 - [Implemented steganography techniques for data embedding](https://github.com/tinkerness/steganoshield/blob/main/proj3_steganography/README.md)
 
 - [Completed UI design](https://github.com/tinkerness/steganoshield/blob/main/proj4_html/README.md)
+
+- [Add Flask framework](https://github.com/tinkerness/steganoshield/blob/main/proj5_flask/README.md)
 
 ## Future Plans
 - Connect to database
