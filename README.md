@@ -13,17 +13,17 @@ View Full Project at :- [SteganoShield Repo](https://github.com/tinkerness/stega
 
 ## Tech Stack Used
 - Python
-- Figma
 - HTML
 - CSS
 - Flask
-<!-- - Firebase -->
+- Firebase
+- Figma
 
 ## Results
 SteganoShield successfully provides a robust solution for ensuring confidentiality and integrity in digital communication.
 
 ## Demo
-### To run the application:-
+### To run the Python code:-
 - Navigate to the `steganoshield` directory inside the `steganoshield_copy` directory. You can use the `cd` command to change directories. For example:
     ```bash
     cd path\to\steganoshield_copy\steganoshield
@@ -36,7 +36,7 @@ SteganoShield successfully provides a robust solution for ensuring confidentiali
     ```
 
 
-### Here's a screenshot of our application:
+### Here's a screenshot of the output:
 1. Encryption Process
     ![Encyption](screenshots/encryption.png  "Encryption Process")
 
@@ -46,19 +46,17 @@ SteganoShield successfully provides a robust solution for ensuring confidentiali
     ![Home](screenshots/1_home.png "Home")
     ![Login](screenshots/2_login.png "Login")
     ![Dashboard](screenshots/3_dashboard_updated.png "Dashboard")
+    ![Notifications](screenshots/6_notifications_new.png "Notifications")
     ![Decrypt](screenshots/5_decrypt.png "Decrypt")
 
 ## Project Status
 - [Completed RSA encryption algorithm](https://github.com/tinkerness/steganoshield/blob/main/proj2_rsa/README.md)
 
-- [Implemented steganography techniques for data embedding](https://github.com/tinkerness/steganoshield/blob/main/proj3_steganography/README.md)
+- [Implemented Steganography techniques for data embedding](https://github.com/tinkerness/steganoshield/blob/main/proj3_steganography/README.md)
+<!-- 
+- [Completed UI design](https://github.com/tinkerness/steganoshield/blob/main/designs/README.md#ui-design) -->
 
-- [Completed UI design](https://github.com/tinkerness/steganoshield/blob/main/proj4_html/README.md)
-
-- [Add Flask framework](https://github.com/tinkerness/steganoshield/blob/main/proj5_flask/README.md)
-
-## Future Plans
-- Connect to database
+- [Backend integration with Flask framework](https://github.com/tinkerness/steganoshield/blob/main/proj4_html/README.md)
 
 ## Team Members
 - Anitta Siby
